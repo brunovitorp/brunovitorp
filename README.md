@@ -28,7 +28,6 @@ Oi, sou Gestor de TI e Projetos, e atualmente também atuo como Professor de Des
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="UX Design" width="40" height="40"/>
 </p>
 
 <h2 align="center">Contatos:</h2>
